@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 </dr>
 
-![alper-incir-ds](https://user-images.githubusercontent.com/37664100/185799283-3173d0d8-b9bb-4a71-8514-fc99ad0607d2.jpg)
+
