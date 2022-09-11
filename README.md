@@ -23,6 +23,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ap0cc&show_icons=true&locale=en&layout=compact" alt="ap0cc" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duvainel&show_icons=true&locale=en" alt="ap0cc" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ap0cc&show_icons=true&locale=en" alt="ap0cc" /></p>
 
 
